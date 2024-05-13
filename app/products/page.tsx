@@ -1,9 +1,12 @@
 
 
+
 export default function ProductsPage() {
+
+    console.log("desde el servidor")
   return (
-    <div>
-      <h1>page</h1>
-    </div>
+<div>
+  
+</div>
   )
 }
